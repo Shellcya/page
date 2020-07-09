@@ -1,0 +1,206 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    width:100vw;
+    height:100vh;
+    overflow-x:hidden;
+    
+  }
+  
+  * { 
+    margin:0;
+    padding:0;
+    border-sizing:border-size;
+    max-width:100vw !important;
+  
+  }
+  
+  
+  
+  header {
+   
+    height: 600px;
+    background: url(img/header.jpg) no-repeat;
+    background-size:100vw;
+  
+  }
+  
+  .log {
+    position:absolute;
+    padding-top:1.25rem;
+    padding-left:3.75rem;
+  }
+  
+  
+  
+  
+  h1{ 
+    font-weight:bold;
+    font-style: italic;
+    margin-left:3.125rem;
+    margin-top:9.375rem;
+    color:#732E1F;
+    font-size:3.125rem;
+  }
+  
+  
+  .sobre {
+    
+    font-size:1.563rem;
+    margin-right:5rem;
+    justify-content:flex-end;
+    display:flex;
+    list-style:none;
+    padding:0.625rem;
+  
+  }
+  
+  .img {
+    display:flex;
+    flex-direction:column;
+   
+    
+  }
+  
+  .imagens {
+    display:flex;
+    max-width:100vw;
+    justify-content:space-around;
+    width:100%;
+    padding-top:3.125rem;
+  }
+  
+  .legenda {
+    margin-top:1.25rem;
+    font-weight:bold;
+    width:19.375rem;
+  }
+  
+  
+  .foto { 
+     width:19.375rem;
+    height:12.5rem;
+  }
+  
+  .nav {
+      
+    margin-top:1.688rem;
+        padding:0.625rem;
+        margin-right:1.875rem;
+       
+    
+  }
+  
+  a {
+      color:#592316;
+    text-decoration:none;}
+  
+  
+  .primeira{ 
+  
+  height: 31.25rem;
+    background:#F2EBDC;
+   
+  }
+  
+  .texto-primeira{  
+    text-align:center;
+    width:70vw;
+    margin:0 auto;
+    padding-top:2.5rem;
+  }
+  
+  
+  
+  
+  
+  .segunda{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    font-size:1.875rem;
+    color:#DADBCD;
+    height:500px;
+   background:url(img/part3.jpg)no-repeat;
+  background-size: 84.375rem;
+  
+  }
+  
+  
+  .terceira{
+    
+    color: #732E1F;
+    background:#F2EBDC;
+    font-size:2.188rem;
+    text-align:center;
+  padding:12.5rem;
+     font-weight:bold;          }
+  
+  
+  .terceira:hover {
+    text-decoration:underline;
+    
+  }
+  
+  .footer {
+    
+    display:flex;
+    justify-content:center;
+     flex-direction:column;
+    background:#f0e3c0;
+    height:18.75rem;
+    align-items:center;
+  }
+    
+  .div-footer { 
+    
+    padding:0.938rem;
+  
+  }
+  
+  .button{
+    height:1.875rem;
+      background:transparent;
+    padding:0.313rem;
+    
+  }
+  .sites {
+   width:2.375rem;
+    height:2.375rem;
+     }
+  
+  .insta{
+    height:3.125rem;
+    width:3.125rem;
+  }
+  
+  .todos {
+    display:flex;
+    align-items:center;
+  }
+  
+  
+  .barão {
+    font-size:1.125rem;
+    color:#732E1F;
+    font-weight:bold;
+    font-style:italic;
+   margin-left:43.75rem;
+    padding:0.625rem;
+  }
+  
+  
+  .Mario{ 
+    text-align:center;
+    font-size:1.25rem;
+    color:#732E1F;
+    font-weight:bold;
+    font-style:italic;
+    margin-right:11.25rem;
+  
+  
+  }
+  
+  .log-footer{ 
+    padding-bottom:0.938rem;
+    
+  }
